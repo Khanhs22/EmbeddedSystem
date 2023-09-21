@@ -1,0 +1,2 @@
+../Core/Src/led7seg.c:59:6:display_digit	16	static
+../Core/Src/led7seg.c:71:6:display_float	24	static
